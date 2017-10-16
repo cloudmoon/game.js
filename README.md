@@ -7,6 +7,6 @@ js实现的小游戏
  
  + `aircraft`   飞机
  
- + `flappy`   仿flappybird
+ + `flappy`   仿flappybird123
 
 **Have Fun!**
