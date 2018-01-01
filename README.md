@@ -2,7 +2,7 @@
 ### javascript(es6)实现的小游戏
 
 ### 未使用任何三方库／框架。
-    点击下方链接试玩
+    点击下方中文链接试玩
 
  ### + `breakout`   [打砖块](https://warm-fjord-63972.herokuapp.com/game/breakout/game.html)
  
