@@ -14,8 +14,9 @@
 
 ## 截图
 
-![flappy bird](https://i.loli.net/2018/01/02/5a4b3018b5a7c.gif)
-
 ![空战](https://i.loli.net/2018/01/02/5a4b3018a4a54.gif)
 
 ![打砖块](https://i.loli.net/2018/01/02/5a4b30188b8cd.gif)
+
+![flappy bird](https://i.loli.net/2018/01/02/5a4b3018b5a7c.gif)
+
