@@ -1,5 +1,5 @@
 # game-js
-### javascript(es6)实现的小游戏
+### javascript(es6) + canvas 实现的小游戏
 
 ### 未使用任何三方库／框架。
     点击下方中文链接试玩
